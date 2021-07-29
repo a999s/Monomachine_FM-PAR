@@ -1,2 +1,2 @@
 # Monomachine_FM+PAR
-FM+STAT algorithm from Monomachine
+FM+PAR algorithm from Monomachine
